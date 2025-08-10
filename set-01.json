@@ -1,0 +1,161 @@
+{
+  "multipleChoice": [
+    {
+      "question": "The report calls for a radical ______ in the way the company operates.",
+      "options": ["shift", "alteration", "exchange", "transfer"],
+      "answer": "shift"
+    },
+    {
+      "question": "Her sudden resignation took everyone by ______.",
+      "options": ["wonder", "shock", "surprise", "doubt"],
+      "answer": "surprise"
+    },
+    {
+      "question": "The committee has been asked to ______ a proposal for the new sports centre.",
+      "options": ["compose", "draw up", "sketch", "design"],
+      "answer": "draw up"
+    },
+    {
+      "question": "It’s high time you ______ your own decisions instead of always asking me.",
+      "options": ["make", "made", "had made", "would make"],
+      "answer": "made"
+    },
+    {
+      "question": "The new manager was keen to put her own ______ on the project.",
+      "options": ["mark", "stamp", "signature", "label"],
+      "answer": "stamp"
+    },
+    {
+      "question": "The minister’s statement gave rise ______ widespread criticism.",
+      "options": ["for", "to", "of", "with"],
+      "answer": "to"
+    },
+    {
+      "question": "There’s no point ______ to persuade him — his mind is made up.",
+      "options": ["trying", "to try", "in trying", "having tried"],
+      "answer": "in trying"
+    },
+    {
+      "question": "By the time you arrive, the meeting ______.",
+      "options": ["will have started", "started", "has started", "would start"],
+      "answer": "will have started"
+    },
+    {
+      "question": "The success of the campaign is largely ______ to the dedication of the volunteers.",
+      "options": ["because", "due", "owing", "down"],
+      "answer": "due"
+    },
+    {
+      "question": "She would never have agreed to the plan if she ______ the risks.",
+      "options": ["knew", "had known", "would know", "knows"],
+      "answer": "had known"
+    },
+    {
+      "question": "We must take measures to ensure the safety of the public, ______ cost.",
+      "options": ["whatever", "whichever", "however", "no matter"],
+      "answer": "whatever"
+    },
+    {
+      "question": "He was so tired that he could ______ keep his eyes open.",
+      "options": ["hardly", "barely", "scarcely", "rarely"],
+      "answer": "hardly"
+    }
+  ],
+
+  "openCloze": [
+    {
+      "sentence": "Had I ______ about the traffic, I would have left earlier.",
+      "answer": "known"
+    },
+    {
+      "sentence": "It’s high time you ______ more responsibility at work.",
+      "answer": "took"
+    },
+    {
+      "sentence": "No sooner ______ we sat down than the fire alarm went off.",
+      "answer": "had"
+    },
+    {
+      "sentence": "Despite ______ exhausted, she continued working late into the night.",
+      "answer": "being"
+    },
+    {
+      "sentence": "She has lived here ______ 2015.",
+      "answer": "since"
+    },
+    {
+      "sentence": "We’re hoping to finish the project by Friday, ______ all goes well.",
+      "answer": "provided"
+    },
+    {
+      "sentence": "The suspect denied ______ at the scene of the crime.",
+      "answer": "being"
+    },
+    {
+      "sentence": "Only after the train had left ______ that she was on the wrong platform.",
+      "answer": "did she realise"
+    }
+  ],
+
+  "wordFormation": [
+    {
+      "sentence": "His constant ______ (COMPLAIN) about the noise is getting on my nerves.",
+      "answer": "complaining"
+    },
+    {
+      "sentence": "The proposal was rejected due to its ______ (FEASIBLE).",
+      "answer": "infeasibility"
+    },
+    {
+      "sentence": "We need a more ______ (CREATE) approach to solve this problem.",
+      "answer": "creative"
+    },
+    {
+      "sentence": "The Prime Minister’s speech was widely regarded as ______ (INSPIRE).",
+      "answer": "inspiring"
+    },
+    {
+      "sentence": "There’s little point in making further ______ (INVESTIGATE) into the matter.",
+      "answer": "investigations"
+    },
+    {
+      "sentence": "She made a very ______ (IMPRESS) entrance at the gala dinner.",
+      "answer": "impressive"
+    },
+    {
+      "sentence": "He’s shown remarkable ______ (DETERMINE) in completing the course.",
+      "answer": "determination"
+    },
+    {
+      "sentence": "The rules are designed to ensure the ______ (SAFE) of all participants.",
+      "answer": "safety"
+    }
+  ],
+
+  "sentenceTransformation": [
+    {
+      "question": "I regret not speaking up at the meeting.  →  I wish ______ at the meeting.",
+      "answer": "I had spoken up"
+    },
+    {
+      "question": "It wasn’t necessary for her to attend the interview, but she did.  →  She needn’t ______ the interview, but she did.",
+      "answer": "have attended"
+    },
+    {
+      "question": "We last went skiing three years ago.  →  We haven’t ______ three years.",
+      "answer": "been skiing for"
+    },
+    {
+      "question": "I’m sure he didn’t mean to offend you.  →  He can’t ______ to offend you.",
+      "answer": "have meant"
+    },
+    {
+      "question": "I’m sure this bag belongs to Jane.  →  This bag must ______ Jane.",
+      "answer": "belong to"
+    },
+    {
+      "question": "The company started using the new system in March.  →  The new system ______ since March.",
+      "answer": "has been in use"
+    }
+  ]
+}
